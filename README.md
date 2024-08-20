@@ -1,2 +1,2 @@
-# cordel-site
-Website em formato de história em cordel
+# Site em cordel 🏜️🏜️🏜️
+Website em formato de literatura de cordel
